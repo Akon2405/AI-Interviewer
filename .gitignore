@@ -1,0 +1,21 @@
+# Python Virtual Environments
+venv/
+__pycache__/
+*.pyc
+
+# Private API Keys & Secrets
+.env
+
+# Temporary Audio Processing Files
+temp_chunk.wav
+temp_web_chunk.wav
+*.wav
+
+# Downloaded AI Models (Users must download these themselves)
+face_landmarker.task
+*.task
+*.pt
+
+# OS Generated Files
+.DS_Store
+Thumbs.db

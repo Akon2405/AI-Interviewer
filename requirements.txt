@@ -1,0 +1,21 @@
+# Web Framework
+streamlit==1.36.0
+
+# Audio Processing & AI Voice
+sounddevice
+scipy
+openai-whisper
+pyttsx3
+torch
+torchaudio
+
+# Computer Vision & Eye Tracking
+opencv-python
+mediapipe
+
+# LLM Brain Connection
+groq
+python-dotenv
+
+# Utilities
+numpy
